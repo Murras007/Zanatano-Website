@@ -176,18 +176,19 @@ hr {
 	text-transform: uppercase;
 	margin-bottom: 20px;
 	padding: 20px;
-	background-color: rgba(0,0,0,0.4);
+	
 }
 .intro p {
 	color: rgba(255,255,255,0.8);
 	font-size: 22px;
 	margin-bottom: 40px;
 	margin-top: 20px;
-	background-color: rgba(0,0,0,0.4);
+	
 }
 header .intro-text {
 	padding-top: 250px;
 	padding-bottom: 200px;
+	background-color: rgba(0,0,0,0.4);
 }
 /* About Section */
 #about {
