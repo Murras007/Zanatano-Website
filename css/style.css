@@ -213,7 +213,7 @@ header .intro-text {
 	background: rgb(255,255,255); /* Old browsers */
 	background: -moz-linear-gradient(top, rgba(244, 242, 235,1) 0%, rgba(244, 242, 235,1) 0%, rgba(244, 242, 235,1) 0%, rgba(244, 242, 235,1) 0%, rgba(244, 242, 235,1) 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(top, rgba(244, 242, 235,1) 0%, rgba(244, 242, 235,1) 0%, rgba(244, 242, 235,1) 0%, rgba(244, 242, 235,1) 0%, rgba(244, 242, 235,1) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgba(244, 242, 2351) 0%, rgba(244, 242, 235,1) 0%, rgba(244, 242, 235,1) 0%, rgba(244, 242, 235,1) 0%, rgba244, 242, 235,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background: linear-gradient(to bottom, rgba(244, 242, 2351) 0%, rgba(244, 242, 235,1) 0%, rgba(244, 242, 235,1) 0%, rgba(244, 242, 235,1) 0%, rgba(244, 242, 235,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', endColorstr='#54d0dd', GradientType=0 ); /* IE6-9 */
 }
 #about .about-text {
@@ -373,6 +373,22 @@ ul.type li a:hover {
 	font-size: 20px;
 	padding: 5px;
 	color: #E87E04;
+}
+/*Download Section*/
+#download{
+	padding: 120px 0;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#54d0dd+0,54d0dd+0,54d0dd+0,71777d+0,414a52+100 */
+	background: rgb(248, 248, 247); /* Old browsers */
+	background: -moz-linear-gradient(top, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 0%, rgb(255, 255, 254) 0%, rgb(255, 255, 255) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 0%, rgb(247, 247, 247) 0%, rgb(247, 247, 247) 0%, rgb(255, 255, 255) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 0%, rgb(250, 250, 249) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', endColorstr='#414a52', GradientType=0 ); /* IE6-9 */
+
+}
+#download p {
+	margin-bottom: 30px;
+	line-height: 21px;
+	color: #000000;
 }
 /* Contact Section */
 #contact {
