@@ -1126,7 +1126,7 @@ img {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
 }
 .img-rounded {
@@ -1407,6 +1407,7 @@ a.bg-danger:hover {
 ul,
 ol {
   margin-top: 0;
+  display: block;
   margin-bottom: 10px;
 }
 ul ul,
